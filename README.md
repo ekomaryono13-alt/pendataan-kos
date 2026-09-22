@@ -1,2 +1,1 @@
-# pendataan-kos
-Aplikasi Pendataan Kamar Kos
+ekomaryono13-alt/pendataan-kos
