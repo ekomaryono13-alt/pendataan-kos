@@ -1,0 +1,10 @@
+{
+  "name":"Pendataan Kamar Kos RT 07 RW VII",
+  "short_name":"Data Kos",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f3f4f6",
+  "theme_color":"#166534",
+  "lang":"id",
+  "description":"Pendataan kamar kos dengan tarif Rp7.500 per kamar isi."
+}
