@@ -1,4 +1,4 @@
-const CACHE="pendataan-kos-v2";
+const CACHE="pendataan-kos-v3";
 const ASSETS=["./","./index.html","./manifest.webmanifest"];
 
 self.addEventListener("install",e=>{
